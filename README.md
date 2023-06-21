@@ -1,0 +1,2 @@
+# Sentiment-Analysis-of-COVID-19-Tweets-A-Comparative-Analysis-of-Classification-Models
+This aims to perform sentiment analysis on COVID-19 tweets using various classification models. We preprocess the data, convert words to vectors, and train models such as Naïve Bayes, SVM, and KNN. Finally, we compare their performance to determine the most accurate model for predicting sentiment in COVID-19 tweets.
